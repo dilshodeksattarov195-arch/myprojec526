@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvpdate",
+        "uuid": 1632178,
+        "checksum": "nrdd2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
